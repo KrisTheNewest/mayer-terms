@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(20, 20, 20);
+	color: azure;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+	margin: 5% 10%;
+}
+a {
+	color: #ff7400;
+}
+a:visited {
+	color: #904100
+}
+a:active {
+	color: #005cfc;
+}
